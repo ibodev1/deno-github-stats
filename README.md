@@ -19,3 +19,5 @@ or
 ```bash
     github.exe ibodev1
 ```
+
+[github.exe](https://github.com/ibodev1/deno-github-stats/releases/tag/v1)
