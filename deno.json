@@ -1,0 +1,7 @@
+{
+  "importMap": "./import_map.json",
+  "tasks": {
+    "dev": "deno run --allow-read --allow-write --allow-net main.ts",
+    "build": "deno compile --output github --allow-read --allow-write --allow-net main.ts"
+  }
+}
